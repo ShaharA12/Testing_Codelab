@@ -16,9 +16,9 @@
 
 package com.example.android.testing.notes.data;
 
-import com.google.common.base.Objects;
-
 import android.support.annotation.Nullable;
+
+import com.google.common.base.Objects;
 
 import java.util.UUID;
 
